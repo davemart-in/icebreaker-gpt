@@ -1,0 +1,15 @@
+{
+	"name": "a8c/icebreaker",
+	"title": "Icebreaker",
+	"description": "This block generates a random icebreaker question.",
+	"category": "common",
+	"icon": "megaphone",
+	"keywords": [ "icebreaker", "question" ],
+	"styles": [
+		"icebreaker-block-editor.css",
+		"icebreaker-block-frontend.css"
+	],
+	"scripts": [
+		"icebreaker-block-editor.js"
+	]
+}

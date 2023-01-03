@@ -1,0 +1,9 @@
+.editor-styles-wrapper p.icebreaker-question {
+	align-items: center;
+	display: flex;
+	gap: 8px;
+	margin: 0 0 15px;
+}
+.editor-styles-wrapper p .refresh-icon {
+	text-decoration: none;
+}
